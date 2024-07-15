@@ -51,7 +51,7 @@ Contributions to improve the Waste Container Status App are welcome. Please feel
 
 ## License
 
-[Specify your license here, e.g., MIT License, GNU GPL, etc.]
+MIT
 
 ## Acknowledgments
 
